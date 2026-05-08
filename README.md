@@ -46,13 +46,13 @@
 *The system supports multiple visualization modes and report generation.*
 
 **1. Multi-Perspective Analytics (4 Chart Types):**
-| Operational (Bar) | Growth Trends (Area) |
+| Operational (Bar) | Trends (Line) |
 | :---: | :---: |
-| ![Bar](./screenshots/bi_chart_bar.png) | ![Area](./screenshots/bi_chart_area.png) |
+| ![Bar](./screenshots/bi_chart_bar.png) | ![Line](./screenshots/bi_chart_line.png) |
 
-| Strategic (Line) | Composition (Donut) |
+| Composition (Pie) | Data Grid (Table) |
 | :---: | :---: |
-| ![Line](./screenshots/bi_chart_line.png) | ![Donut](./screenshots/bi_chart_donut.png) |
+| ![Pie](./screenshots/bi_chart_pie.png) | ![Table](./screenshots/bi_chart_table.png) |
 
 **2. Custom Detailed Report Builder:**
 *Select columns, filter by date, and export to PDF/Excel.*
