@@ -58,6 +58,18 @@
 ### 🏢 Factory-Level Dashboard (Department Grid)
 ![Factory Dashboard](./screenshots/factory_dashboard.png)
 
+### 🏬 Factory Module Deep Dives (Filtered View)
+*Shows that every module can be strictly scoped to a single factory/branch.*
+
+**Production per Factory:**
+![Factory Production](./screenshots/factory_production.png)
+
+**Inventory per Factory:**
+![Factory Inventory](./screenshots/factory_inventory.png)
+
+**HR per Factory:**
+![Factory HR](./screenshots/factory_hr.png)
+
 ---
 
 ## ✨ Key Features
