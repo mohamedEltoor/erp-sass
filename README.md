@@ -27,12 +27,25 @@
 ### 🔐 Login Page
 ![Login](./screenshots/login.png)
 
-### 🏠 Executive Dashboard
+### 🏠 Executive Dashboard (Company-Wide)
 ![Dashboard](./screenshots/dashboard.png)
 
-### 📊 BI Report Engine — 4 Different Analytics Perspectives
-The system supports multiple visualization modes to suit different analysis needs.
+### 🏢 Multi-Factory Management (Branch Level)
+*The ERP allows managing the entire company or drilling down into specific factories. The data and dashboard adapt automatically.*
 
+**Factory Dashboard (Department Grid):**
+![Factory Dashboard](./screenshots/factory_dashboard.png)
+
+**Factory-Specific HR (Notice the Sidebar Context):**
+![Factory HR](./screenshots/factory_hr.png)
+
+**Factory-Specific Production:**
+![Factory Production](./screenshots/factory_production.png)
+
+### 📊 Business Intelligence & Analytics
+*The system supports multiple visualization modes and report generation.*
+
+**1. Multi-Perspective Analytics (4 Chart Types):**
 | Operational (Bar) | Growth Trends (Area) |
 | :---: | :---: |
 | ![Bar](./screenshots/bi_chart_bar.png) | ![Area](./screenshots/bi_chart_area.png) |
@@ -41,46 +54,32 @@ The system supports multiple visualization modes to suit different analysis need
 | :---: | :---: |
 | ![Line](./screenshots/bi_chart_line.png) | ![Donut](./screenshots/bi_chart_donut.png) |
 
-#### 📋 Custom Detailed Report Builder
+**2. Custom Detailed Report Builder:**
 *Select columns, filter by date, and export to PDF/Excel.*
 ![BI Detailed Filled](./screenshots/bi_detailed_filled.png)
 
-### 📈 Detailed Report Builder & Ad-hoc Queries
-![BI Detailed](./screenshots/bi_detailed.png)
+**3. Ad-hoc Queries Builder:**
 ![BI Custom](./screenshots/bi_custom.png)
 
-### 💰 Accounting — Journal Entries, Chart of Accounts, Financial Reports
+### 🧩 Core Modules (Global View)
+
+**💰 Accounting:**
 ![Accounting](./screenshots/accounting.png)
 
-### 👥 Human Resources — Employee Registry & Payroll Budget
+**👥 Human Resources:**
 ![HR](./screenshots/hr.png)
 
-### 🏭 Production — Manufacturing Orders Tracking
+**🏭 Production:**
 ![Production](./screenshots/production.png)
 
-### 📦 Inventory & Warehousing
+**📦 Inventory & Warehousing:**
 ![Inventory](./screenshots/inventory.png)
 
-### 🛒 Sales Orders
+**🛒 Sales Orders:**
 ![Sales](./screenshots/sales.png)
 
-### 📋 Purchasing & Procurement
+**📋 Purchasing & Procurement:**
 ![Purchasing](./screenshots/purchasing.png)
-
-### 🏢 Factory-Level Dashboard (Department Grid)
-![Factory Dashboard](./screenshots/factory_dashboard.png)
-
-### 🏬 Factory Module Deep Dives (Filtered View)
-*Shows that every module can be strictly scoped to a single factory/branch.*
-
-**Production per Factory:**
-![Factory Production](./screenshots/factory_production.png)
-
-**Inventory per Factory:**
-![Factory Inventory](./screenshots/factory_inventory.png)
-
-**HR per Factory:**
-![Factory HR](./screenshots/factory_hr.png)
 
 ---
 
