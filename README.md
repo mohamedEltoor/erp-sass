@@ -30,8 +30,12 @@
 ### 🏠 Executive Dashboard
 ![Dashboard](./screenshots/dashboard.png)
 
-### 📊 BI Report Engine — 22 Pre-built Reports + Custom Queries
+### 📊 BI Report Engine — 22 Pre-built Reports
 ![BI Engine](./screenshots/bi.png)
+
+### 📈 Detailed Report Builder & Ad-hoc Queries
+![BI Detailed](./screenshots/bi_detailed.png)
+![BI Custom](./screenshots/bi_custom.png)
 
 ### 💰 Accounting — Journal Entries, Chart of Accounts, Financial Reports
 ![Accounting](./screenshots/accounting.png)
@@ -50,6 +54,9 @@
 
 ### 📋 Purchasing & Procurement
 ![Purchasing](./screenshots/purchasing.png)
+
+### 🏢 Factory-Level Dashboard (Department Grid)
+![Factory Dashboard](./screenshots/factory_dashboard.png)
 
 ---
 
