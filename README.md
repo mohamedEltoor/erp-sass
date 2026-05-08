@@ -30,8 +30,18 @@
 ### 🏠 Executive Dashboard
 ![Dashboard](./screenshots/dashboard.png)
 
-### 📊 BI Report Engine — 22 Pre-built Reports
-![BI Engine](./screenshots/bi.png)
+### 📊 BI Report Engine — Multi-Perspective Analytics
+The BI module provides multiple ways to visualize data, from day-to-day operations to long-term strategy.
+
+#### 🛠️ Functional View (Operational) — Bar Chart
+![BI Functional](./screenshots/bi_functional_bar.png)
+
+#### 📈 Strategic View (High-level) — Pie Chart
+![BI Strategic](./screenshots/bi_strategic_pie.png)
+
+#### 📋 Detailed Report Builder
+*Custom column selection and direct export to PDF/Excel/CSV.*
+![BI Detailed Filled](./screenshots/bi_detailed_filled.png)
 
 ### 📈 Detailed Report Builder & Ad-hoc Queries
 ![BI Detailed](./screenshots/bi_detailed.png)
